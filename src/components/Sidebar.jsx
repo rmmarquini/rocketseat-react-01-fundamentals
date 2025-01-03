@@ -17,7 +17,7 @@ export function Sidebar() {
         />
         
         <strong>John Doe</strong>
-        <span>Software Engineer</span>
+        <span>Front-end developer</span>
       </div>
       
       <footer>
